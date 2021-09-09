@@ -1,4 +1,4 @@
-## Panoptic Segformer - Pytorch
+## Panoptic Segformer - Pytorch (wip)
 
 Implementation of <a href="https://arxiv.org/abs/2109.03814">Panoptic Segformer</a>, in Pytorch. New SOTA on COCO with a simple, attention-based architecture
 
